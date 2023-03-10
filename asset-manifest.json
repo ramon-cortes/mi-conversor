@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-conversor/static/css/main.8e12bddb.css",
+    "main.js": "/mi-conversor/static/js/main.d34c5937.js",
+    "index.html": "/mi-conversor/index.html",
+    "main.8e12bddb.css.map": "/mi-conversor/static/css/main.8e12bddb.css.map",
+    "main.d34c5937.js.map": "/mi-conversor/static/js/main.d34c5937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e12bddb.css",
+    "static/js/main.d34c5937.js"
+  ]
+}
