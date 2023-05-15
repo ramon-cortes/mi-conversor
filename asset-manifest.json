@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mi-conversor/static/css/main.e24d1bf0.css",
-    "main.js": "/mi-conversor/static/js/main.2fb24ffb.js",
+    "main.css": "/mi-conversor/static/css/main.68a3163c.css",
+    "main.js": "/mi-conversor/static/js/main.aa90e790.js",
     "index.html": "/mi-conversor/index.html",
-    "main.e24d1bf0.css.map": "/mi-conversor/static/css/main.e24d1bf0.css.map",
-    "main.2fb24ffb.js.map": "/mi-conversor/static/js/main.2fb24ffb.js.map"
+    "main.68a3163c.css.map": "/mi-conversor/static/css/main.68a3163c.css.map",
+    "main.aa90e790.js.map": "/mi-conversor/static/js/main.aa90e790.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24d1bf0.css",
-    "static/js/main.2fb24ffb.js"
+    "static/css/main.68a3163c.css",
+    "static/js/main.aa90e790.js"
   ]
 }
